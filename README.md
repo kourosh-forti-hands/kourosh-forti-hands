@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 ### 📈 My GitHub Stats
 
-<p align="left"> <img src="https://stats-kourosh-forti-hands-projects.vercel.app/api?username=kourosh-forti-hands&layout=donut-vertical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham" alt="kourosh-forti-hands" />
+<p align="left"> <img src="https://stats-kourosh-forti-hands-projects.vercel.app/api?username=kourosh-forti-hands&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham" alt="kourosh-forti-hands" />
+[![Top Langs](https://stats-kourosh-forti-hands-projects.vercel.app/api?username=kourosh-forti-hands&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
